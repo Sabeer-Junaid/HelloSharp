@@ -1,4 +1,4 @@
-<a href = "https://github.com/Sabeer-Junaid/HelloSharp/blob/main/Subjects%20Average.cs">Calculating and Rounding the Average of Subject Marks in C#</a>
+<a href = "https://github.com/Sabeer-Junaid/HelloSharp/blob/main/Problems/Subjects%20Average.cs">Calculating and Rounding the Average of Subject Marks in C#</a>
 <details>
   <summary>Objective</summary>
   
