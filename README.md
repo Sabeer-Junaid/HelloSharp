@@ -32,3 +32,20 @@
 7. If the user inputs "Y," the process repeats; otherwise, the program ends.  
 
 </details>
+
+<a href = "https://github.com/Sabeer-Junaid/HelloSharp/blob/main/Problems/Print%20Bio%20data%20by%20using%20escape%20sequence.cs">Simple Bio Data Collector</a>
+<details>
+<summary>Objective</summary>
+  
+1. The program prompts the user to input their **first name**, **father's name**, **age**, and **occupation**.  
+2. The user is asked to confirm if the details they provided are correct by typing "Y" or "N".  
+3. If the user confirms with "Y", the program displays the entered details:  
+   - Name  
+   - Father's name  
+   - Age  
+   - Occupation  
+4. If the user responds with "N", the program cancels the procedure and informs the user.  
+5. The program uses basic input/output functionality with `Console.ReadLine()` and `Console.WriteLine()` for interaction.  
+
+  
+</details>
