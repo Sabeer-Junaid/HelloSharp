@@ -1,3 +1,4 @@
+#region
 using System;
 
 public class Program
@@ -28,3 +29,5 @@ public class Program
         return (double)total / subjects;
     }
 }
+
+#endregion
